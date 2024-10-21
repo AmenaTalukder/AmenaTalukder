@@ -19,7 +19,7 @@ _Technical Training Center, Tangail, Bangladesh_
 ---
 
 ## 💼 Work Experience  
-**Full-Stack Developer (Self-Practice)** _(1 Year Experience)_  
+**Full-Stack Developer (Self-Practice)** __  
 
 Over the past year, I have independently developed full-stack web applications, focusing on both frontend and backend technologies. This hands-on practice allowed me to explore modern frameworks and tools while honing my programming skills.
 
