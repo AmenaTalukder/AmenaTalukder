@@ -47,16 +47,20 @@ Developed various games, software applications, and frontend clone web applicati
 ---
 
 ## 📚 Notable Projects  
+
+- **Fresh Food**: Online Sushi ordering platform which is a modern,responsive and interactive web application built with React and tailwind CSS.
+- **Online Education site**: LearnFlow is a modern, responsive and fully functional front-end interface for an Online education Platform.
+- **Travel App**: A modern ,responsive travel website UI built using React and SCSS. Includes animated components, video background home & footer and a sleek layout design.
+- **Authentication App**: A robust authentication dashboard app integrating a full authentication system for web applications.  
+- **Transactions Dashboard**: A management dashboard built using React and Chakra UI for viewing and filtering transaction data.  
+- **FoodyZone**: A food search web application designed to help users find their favorite dishes.  
+- **Contact Management App**: A Firebase-powered application for adding, updating, deleting, and searching contacts.  
 - **BookStoreApp**: A full-stack web application for managing an online bookstore with user and admin roles, complete with dark and light mode.  
 - **Tasty-Burger**: A food delivery application for ordering and managing orders, built with React and Firebase.  
 - **Fake News Detection**: A machine learning model to detect fake news in online articles using Python and popular data science libraries.  
 - **Currency Converter App**: A user-friendly application designed to help users easily convert currencies in real-time.  
 - **My Project Amazon**: An innovative authentication dashboard application designed to streamline user management and enhance security for web applications.  
 - **Tic Tac Toe Game**: A classic two-player game showcasing a simple yet engaging interface for users.  
-- **Authentication App**: A robust authentication dashboard app integrating a full authentication system for web applications.  
-- **Transactions Dashboard**: A management dashboard built using React and Chakra UI for viewing and filtering transaction data.  
-- **FoodyZone**: A food search web application designed to help users find their favorite dishes.  
-- **Contact Management App**: A Firebase-powered application for adding, updating, deleting, and searching contacts.  
 - **Bat Ball Stump Game**: A game project in JavaScript played between the user and computer.  
 - **Raven Flight Game**: An exciting game where players navigate a dynamically changing world.  
 - **To-Do App**: A project focused on task management in JavaScript.
