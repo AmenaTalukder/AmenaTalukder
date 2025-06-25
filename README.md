@@ -48,6 +48,7 @@ Developed various games, software applications, and frontend clone web applicati
 
 ## 📚 Notable Projects  
 
+- **Chat Application** : This is a real-time chat application with user authentication, avatar management, and instant messaging, built using the MERN stack (React + Node.js + MongoDB).
 - **Fresh Food**: Online Sushi ordering platform which is a modern,responsive and interactive web application built with React and tailwind CSS.
 - **Online Education site**: LearnFlow is a modern, responsive and fully functional front-end interface for an Online education Platform.
 - **Travel App**: A modern ,responsive travel website UI built using React and SCSS. Includes animated components, video background home & footer and a sleek layout design.
@@ -60,10 +61,7 @@ Developed various games, software applications, and frontend clone web applicati
 - **Fake News Detection**: A machine learning model to detect fake news in online articles using Python and popular data science libraries.  
 - **Currency Converter App**: A user-friendly application designed to help users easily convert currencies in real-time.  
 - **My Project Amazon**: An innovative authentication dashboard application designed to streamline user management and enhance security for web applications.  
-- **Tic Tac Toe Game**: A classic two-player game showcasing a simple yet engaging interface for users.  
-- **Bat Ball Stump Game**: A game project in JavaScript played between the user and computer.  
-- **Raven Flight Game**: An exciting game where players navigate a dynamically changing world.  
-- **To-Do App**: A project focused on task management in JavaScript.
+
 
 ---
 
