@@ -67,10 +67,11 @@ Developed various games, software applications, and frontend clone web applicati
 
 ---
 
+
 ## 🛠️ Technical Skills  
 - **Frameworks & Libraries**:  
   - Frontend: **React.js**, **Next.js**, **Angular.js**, **jQuery**, **Bootstrap**, **Material-UI**  
-  - Backend: **Node.js**, **Django**, **Flask**, **Express.js**, **Laravel**  
+  - Backend: **Node.js**, **Django**, **Flask**, **Express.js**
   - Data Science & Machine Learning: **TensorFlow**, **Keras**, **PyTorch**, **Scikit-learn**, **NumPy**, **Pandas**, **Matplotlib**  
   - NLP: **NLTK**, **Hugging Face Transformers**, **SpaCy**, **Gensim**  
   - DevOps: **Docker**, **Kubernetes**, **Jenkins**, **Travis CI**
@@ -98,9 +99,12 @@ Developed various games, software applications, and frontend clone web applicati
 
 ---
 
-## 🏆 Certifications and Awards  
-- Soft Skills Certificates  
-- DSA with Java Course Certificate
+## 🏆 Certifications
+
+- MERN Stack Web Development  
+- DSA with Java  
+- Soft Skills & Leadership  
+
 
 ---
 
@@ -119,6 +123,11 @@ Developed various games, software applications, and frontend clone web applicati
 
 ---
 
-## 💼 Let's Connect  
-[LinkedIn](https://www.linkedin.com/in/me/)
+📧 Email: amenaakter9714@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/amena-akter-49a22a251)  
+🔗 [GitHub Profile](https://github.com/AmenaTalukder)
+
+---
+
+⭐ *Always learning. Always building.*
 
