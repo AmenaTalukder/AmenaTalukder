@@ -48,22 +48,23 @@ Developed various games, software applications, and frontend clone web applicati
 
 ## 📚 Notable Projects  
 
-- **Chat Application** : This is a real-time chat application with user authentication, avatar management, and instant messaging, built using the MERN stack (React + Node.js + MongoDB).
-- **Fresh Food**: Online Sushi ordering platform which is a modern,responsive and interactive web application built with React and tailwind CSS.
-- **Online Education site**: LearnFlow is a modern, responsive and fully functional front-end interface for an Online education Platform.
-- **Travel App**: A modern ,responsive travel website UI built using React and SCSS. Includes animated components, video background home & footer and a sleek layout design.
-- **Authentication App**: A robust authentication dashboard app integrating a full authentication system for web applications.  
-- **Transactions Dashboard**: A management dashboard built using React and Chakra UI for viewing and filtering transaction data.  
-- **FoodyZone**: A food search web application designed to help users find their favorite dishes.  
-- **Contact Management App**: A Firebase-powered application for adding, updating, deleting, and searching contacts.  
-- **BookStoreApp**: A full-stack web application for managing an online bookstore with user and admin roles, complete with dark and light mode.  
-- **Tasty-Burger**: A food delivery application for ordering and managing orders, built with React and Firebase.  
-- **Fake News Detection**: A machine learning model to detect fake news in online articles using Python and popular data science libraries.  
-- **Currency Converter App**: A user-friendly application designed to help users easily convert currencies in real-time.  
-- **My Project Amazon**: An innovative authentication dashboard application designed to streamline user management and enhance security for web applications.  
+- **Chat Application** : This is a real-time chat application with user authentication, avatar management, and instant messaging, built using the MERN stack (React + Node.js + MongoDB + AWS + API).
+- **BookStoreApp**: A full-stack web application for managing an online bookstore with user and admin roles, complete with dark and light mode ( React + Tailwind + Node + MongoDB + JWT + API + AWS). 
+- **Contact Management App**: A Full Stack Firebase-powered application for adding, updating, deleting, and searching contacts ( React + Firebase + Tailwind + Formik +Yup). 
+- **Fresh Food**: Online Sushi ordering platform which is a modern,responsive and interactive Frontend web application built with ( React + tailwind ).
+- **Online Education site**: LearnFlow is a modern, responsive and fully functional ( Frontend )  interface for an Online education Platform.
+- **Travel App**: A modern ,responsive ( Frontend ) travel website UI built using ( React + SCSS ). Includes animated components, video background home & footer and a sleek layout design.
+- **Authentication App**: A robust authentication dashboard app integrating a full authentication system for web applications (React + Node.js + MongoDB + AWS + TypeScript).  
+- **Transactions Dashboard**: A management dashboard built using ( React + Chakra UI ) for viewing and filtering transaction data.This is a frontend project.  
+- **FoodyZone**: A food search Frontend web application designed to help users find their favorite dishes ( React + Bootstrap ) .    
+- **Tasty-Burger**: A food delivery application for ordering and managing orders, built with ( React + BootStrap ).  
+- **Fake News Detection**: A machine learning model to detect fake news in online articles using Python and popular data science libraries.  ( Python + Pandas + Numpy + NLTK ) 
 
 
----
+— --
+
+
+
 
 
 ## 🛠️ Technical Skills  
