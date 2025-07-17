@@ -48,6 +48,7 @@ Developed various games, software applications, and frontend clone web applicati
 
 ## 📚 Notable Projects  
 
+- **Dream Nest** : A full-stack travel booking web application that allows users to explore, list, and book properties. It features secure user authentication, real-time notifications, image uploads, and a seamless property management experience (React + Node.js + MongoDB + Express + Redux + SCSS + Socket.io + MUI + JWT + Multer).
 - **Chat Application** : This is a real-time chat application with user authentication, avatar management, and instant messaging, built using the MERN stack (React + Node.js + MongoDB + AWS + API).
 - **BookStoreApp**: A full-stack web application for managing an online bookstore with user and admin roles, complete with dark and light mode ( React + Tailwind + Node + MongoDB + JWT + API + AWS). 
 - **Contact Management App**: A Full Stack Firebase-powered application for adding, updating, deleting, and searching contacts ( React + Firebase + Tailwind + Formik +Yup). 
